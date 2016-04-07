@@ -1,0 +1,157 @@
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333;
+	line-height:1.5em;
+}
+body {
+    padding-top:50px;
+	background-color: #FFF;
+}
+
+a {
+	font-size: 15px;
+	color: blue;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
+
+#footer {
+    padding-top:50px;
+    text-align:center;
+	width: 100%; 	
+}
+
+#content {
+	background-color: #F4F4F4;
+	width: 100%; 
+}
+
+#logo {
+	width: 500px;
+	height: 50px;
+}
+
+#nav {
+	font-size: 20px;
+	margin: 20px;
+}
+
+.form-signin {
+    max-width : 600px;
+    margin : 0 auto;
+}
+.btn-signup {
+    padding-top : 30px;
+}
+.cover{
+    max-width : 1000px;
+    margin : 0 auto;
+}
+.form-signup {
+    max-width : 600px;
+    margin : 0 auto;
+}
+.form-checkout {
+    max-width :600px;
+    margin : 0 auto;
+}
+.panel-footer{
+    text-align : right;
+}
+.checkout{
+    padding-top : 10px;
+}
+.cart{
+    padding-top : 10px;
+}
+div.cart form input {
+    text-align : right;
+    max-width : 80px;
+}
+.cart-buttons > .cart-button-left {
+    float : left;
+    margin: 20px;
+}
+.cart-buttons > .cart-button-right {
+    float : right;
+    margin: 20px;
+}
+.cart-buttons > .cart-button-center {
+    text-align: center;
+}
+.main {
+    padding-top : 10px;
+}
+.product {
+    padding-top : 10px;
+}
+.product img {
+    padding-top : 9px;
+    width : 200px;
+    height : 300px;
+}
+.product .btn-default {
+    float : right;
+}
+.product .btn-primary {
+    display : inline-block;
+}
+.caption p {
+    margin : 0px;
+}
+.caption h3 {
+    overflow : hidden;
+}
+.product-detail img {
+    width : 500px;
+    height : 750px;
+}
+.product-edit {
+    padding-top : 20px;
+}
+.product-edit .media-body {
+    min-width : 500px;
+}
+.product-edit img {
+    width : 300px;
+    height : 450px;
+}
+.login {
+    font-size: 18px;
+    margin-left: 10px;
+}    
+#game table {
+         border-collapse: collapse;
+}
+#game table, #game th, #game td {
+border : 1px solid black;
+}
+#game > table > tbody > tr > td {
+    table-layout:fixed;
+    width : 40px;
+    height : 40px;
+}
+.circle1 {
+    border-radius : 50%;
+    background-color : red;
+}
+.circle2 {
+    border-radius : 50%;
+    background-color : yellow;
+}
+#status_window {
+    float : left;
+}
+#game_window {
+    clear : both;
+}
+#game {
+    float : left;
+}
+#chat-area {
+    float : left;
+}
